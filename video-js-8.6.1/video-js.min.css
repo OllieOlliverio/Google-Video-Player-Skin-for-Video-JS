@@ -45,13 +45,13 @@ button.vjs-seek-to-live-control.vjs-control {
 }
 
 button.vjs-play-control.vjs-control.vjs-button.vjs-paused {
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/Play.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Play.png);
     background-repeat: no-repeat;
     width: 60px;
 }
 
 button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/Pause.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Pause.png);
     background-repeat: no-repeat;
     width: 60px;
 }
@@ -106,7 +106,7 @@ button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
 
 .video-js .vjs-fullscreen-control {
     content: "\2800";
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/Fullscreen.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Fullscreen.png);
     width: 32px;
     height: 23px;
     display: block;
@@ -114,7 +114,7 @@ button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
 }
 
 .video-js .vjs-fullscreen-control:hover {
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/Fullscreen_Hover.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Fullscreen_Hover.png);
     background-repeat: no-repeat
 }
 
@@ -217,7 +217,7 @@ button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
     content: "\2800";
     width: 11px;
     height: 10px;
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/VolumeSlider_Bead_New.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//VolumeSlider_Bead_New.png);
     margin-top: 2px
 }
 
@@ -758,7 +758,7 @@ body.vjs-full-window {
     height: 2.7em;
     background-color: #2b333f;
     background-color: rgb(43 51 63 / 0%);
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/Topbar_New.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Topbar_New.png);
 }
 
 .vjs-has-started .vjs-control-bar {
@@ -921,7 +921,7 @@ body.vjs-full-window {
     background: rgb(115 133 159 / 0%);
 }
 
-.video-js .vjs-load-progress div {background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/PlaybackSlider_Playable_new.png);}
+.video-js .vjs-load-progress div {background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//PlaybackSlider_Playable_new.png);}
 
 .video-js .vjs-time-tooltip {
     background-color: #fff;
@@ -1120,7 +1120,7 @@ body.vjs-full-window {
 .vjs-volume-bar.vjs-slider-horizontal {
     width: 38px;
     height: 13px;
-    background-image: url(file:///C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/VolumeSlider_New.png);
+    background-image: url(file:///https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//VolumeSlider_New.png);
     top: -8px;
 }
 
@@ -1669,7 +1669,7 @@ button.vjs-seek-to-live-control.vjs-control {
 }
 
 button.vjs-play-control.vjs-control.vjs-button.vjs-paused {
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/Play.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Play.png);
     background-repeat: no-repeat;
     width: 60px;
     margin-top: 2px;
@@ -1677,15 +1677,15 @@ button.vjs-play-control.vjs-control.vjs-button.vjs-paused {
 }
 
 button.vjs-play-control.vjs-control.vjs-button.vjs-paused:hover {
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/Play_Hover.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Play_Hover.png);
 }
 
 button.vjs-play-control.vjs-control.vjs-button.vjs-paused:active {
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/Play_click.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Play_click.png);
 }
 
 button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/Pause.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Pause.png);
     background-repeat: no-repeat;
     width: 60px;
     margin-left: 2px;
@@ -1693,11 +1693,11 @@ button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
 }
 
 button.vjs-play-control.vjs-control.vjs-button.vjs-playing:hover {
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/Pause_Hover.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Pause_Hover.png);
 }
 
 button.vjs-play-control.vjs-control.vjs-button.vjs-playing:active {
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/Pause_Click.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Pause_Click.png);
 }
 
 span.vjs-icon-placeholder {}
@@ -1719,7 +1719,7 @@ button.vjs-mute-control.vjs-control.vjs-button.vjs-vol-3 {
 }
 
 button.vjs-play-control.vjs-control.vjs-button.vjs-paused.vjs-ended {
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/Archive.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Archive.png);
     width: 207px;
     color: black;
     margin-top: -39%;
@@ -1768,7 +1768,7 @@ button.vjs-picture-in-picture-control.vjs-control.vjs-button {
     content:"\2800";
     width: 70px;
     height: 23px;
-    background-image: url(C:/Users/Ollie/OneDrive/Pictures/sites/Rebuilt%20Google%20Video%20Player/Textures/Menu_Pocus.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Menu_Pocus.png);
     position: absolute;
     margin-left: 328px;
     margin-top: 2px;
