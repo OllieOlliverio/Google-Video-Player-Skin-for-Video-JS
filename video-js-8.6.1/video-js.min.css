@@ -1120,7 +1120,7 @@ body.vjs-full-window {
 .vjs-volume-bar.vjs-slider-horizontal {
     width: 38px;
     height: 13px;
-    background-image: url(file:///https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//VolumeSlider_New.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//VolumeSlider_New.png);
     top: -8px;
 }
 
