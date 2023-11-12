@@ -1707,11 +1707,7 @@ button.vjs-play-control.vjs-control.vjs-button.vjs-paused:hover {
 }
 
 button.vjs-play-control.vjs-control.vjs-button.vjs-paused:active {
-<<<<<<< HEAD
     background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures/Play_Click.png);
-=======
-    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Play_click.png);
->>>>>>> 3718531a1d214493c3015e538934e3d987daa496
 }
 
 button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
