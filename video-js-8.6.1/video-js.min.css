@@ -124,8 +124,34 @@ button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
     font-style: normal
 }
 
-.video-js.vjs-fullscreen .vjs-fullscreen-control .vjs-icon-placeholder:before,.vjs-icon-fullscreen-exit:before {
-    content: "\f109"
+.video-js.vjs-fullscreen .vjs-fullscreen-control .vjs-icon-placeholder,.vjs-icon-fullscreen-exit {
+    content: "\2800";
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Windowed.png);
+    width: 32px;
+    height: 25px;
+    top: 1px;
+    display: block;
+    background-repeat: no-repeat;
+}
+
+.video-js.vjs-fullscreen .vjs-fullscreen-control:hover .vjs-icon-placeholder,.vjs-icon-fullscreen-exit:hover {
+    content: "\2800";
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Windowed_Hover.png);
+    width: 32px;
+    height: 25px;
+    top: 1px;
+    display: block;
+    background-repeat: no-repeat;
+}
+
+.video-js.vjs-fullscreen .vjs-fullscreen-control:active .vjs-icon-placeholder,.vjs-icon-fullscreen-exit:active {
+    content: "\2800";
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Windowed_Click.png);
+    width: 32px;
+    height: 25px;
+    top: 1px;
+    display: block;
+    background-repeat: no-repeat;
 }
 
 .vjs-icon-square {
@@ -1681,7 +1707,7 @@ button.vjs-play-control.vjs-control.vjs-button.vjs-paused:hover {
 }
 
 button.vjs-play-control.vjs-control.vjs-button.vjs-paused:active {
-    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures//Play_click.png);
+    background-image: url(https://raw.githubusercontent.com/OllieOlliverio/Google-Video-Player-Skin-for-Video-JS/main/Textures/Play_Click.png);
 }
 
 button.vjs-play-control.vjs-control.vjs-button.vjs-playing {
